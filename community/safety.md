@@ -11,5 +11,5 @@ description: Don't let the Hodag in a trench coat get you.
 * **Signing in** with your wallet is one free signature. It never moves funds.
 * **We never DM first** asking you to "verify", "sync" or "claim" by sending tokens.
 * **Only use the official links** on the [Links](links.md) page.
-* **Buy $HODAG only through the official flap link** on the [Links](links.md) page. Copycat tokens will appear.
+* **Watch out for copycat tokens** with the same name.
 * **All payments in the game** (TimberPass, the Squonk) are normal BNB transfers you approve yourself in your wallet. Check the amount before you approve.
