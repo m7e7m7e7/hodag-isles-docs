@@ -6,6 +6,7 @@ site:
       key: hodag-isles
       title: Hodag Isles
       path: hodag-isles
+      default: true
       children:
         - type: space
           key: docs
