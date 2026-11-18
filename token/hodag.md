@@ -20,13 +20,11 @@ One night the Big Stove roared hotter than ever, and its golden BNB mark blazed 
 | **Ticker** | $HODAG |
 | **Chain** | BNB Smart Chain |
 | **Launchpad** | [flap](https://flap.sh/bnb/0x190e79baf5b53616862df67733ba80e9d4857777) |
-| **Contract (CA)** | `0x190e79baf5b53616862df67733ba80e9d4857777` |
-| **BscScan** | [View the token](https://bscscan.com/token/0x190e79baf5b53616862df67733ba80e9d4857777) |
 
 $HODAG is the coin of the Hodag Isles community. Players earn it in the game before launch (see [Earn Before Launch](earn.md)), and rewards are paid in $HODAG on BNB Chain after launch.
 
 {% hint style="warning" %}
-The only official $HODAG contract is **`0x190e79baf5b53616862df67733ba80e9d4857777`**. Always check the full address before you buy: fake tokens with the same name will appear.
+Only buy $HODAG through the official flap link above: fake tokens with the same name will appear.
 {% endhint %}
 
 {% hint style="info" %}

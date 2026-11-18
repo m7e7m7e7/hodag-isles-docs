@@ -30,14 +30,6 @@ Yes. Hodag Isles runs in mobile browsers with on-screen controls.
 
 <details>
 
-<summary>What is the $HODAG contract address?</summary>
-
-`0x190e79baf5b53616862df67733ba80e9d4857777` on BNB Smart Chain. It's the only official one: check every character before you buy.
-
-</details>
-
-<details>
-
 <summary>Which chain is it on?</summary>
 
 BNB Smart Chain. The TimberPass and the Squonk take BNB, and $HODAG launches on flap on BNB Chain.

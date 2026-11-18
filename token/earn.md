@@ -16,7 +16,7 @@ You need to be signed in with **X** or a **BNB wallet** to earn. Guests can't ea
 |---|---|
 | **Invite a friend** who signs in with X or a wallet | **500** per friend, up to 50 friends |
 | **Post about Hodag Isles on X**, once a day | **100** |
-| **Whitelist quests** with @hodagisles: follow, like, reply, quote | A spot on the whitelist |
+| **Whitelist quests** on X: follow, like, reply, quote | A spot on the whitelist |
 
 ### Invite friends
 
