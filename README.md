@@ -30,6 +30,8 @@ The beast burned the boats and ringed the isles with fire. The only thing it fea
 * The **TimberPass** season pass is paid in **BNB**.
 * **$HODAG**, the camp's coin, launches on **flap**.
 
+**$HODAG contract (CA):** `0x190e79baf5b53616862df67733ba80e9d4857777`
+
 ## Start here
 
 {% content-ref url="story/the-tale.md" %}
