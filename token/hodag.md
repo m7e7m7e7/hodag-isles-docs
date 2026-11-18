@@ -19,7 +19,7 @@ One night the Big Stove roared hotter than ever, and its golden BNB mark blazed 
 | **Name** | Hodag Isles |
 | **Ticker** | $HODAG |
 | **Chain** | BNB Smart Chain |
-| **Launchpad** | flap |
+| **Launchpad** | [flap](https://flap.sh/bnb/0x190e79baf5b53616862df67733ba80e9d4857777) |
 | **Contract (CA)** | `0x190e79baf5b53616862df67733ba80e9d4857777` |
 | **BscScan** | [View the token](https://bscscan.com/token/0x190e79baf5b53616862df67733ba80e9d4857777) |
 
