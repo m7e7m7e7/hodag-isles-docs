@@ -8,7 +8,11 @@ Making a video, a thread or fan art? Use these.
 
 ## Logo
 
-<figure><img src="../.gitbook/assets/logo.png" alt="" width="240"><figcaption><p>The Hodag Coin</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/project_logo.png" alt="Hodag Isles logo" width="360"><figcaption><p>Hodag Isles</p></figcaption></figure>
+
+<figure><img src="../.gitbook/assets/icon.png" alt="Hodag Isles icon" width="160"><figcaption><p>Icon (profile pictures, app icons)</p></figcaption></figure>
+
+<figure><img src="../.gitbook/assets/logo.png" alt="The $HODAG coin" width="200"><figcaption><p>The $HODAG coin (token only)</p></figcaption></figure>
 
 ![](../.gitbook/assets/banner.jpg)
 
