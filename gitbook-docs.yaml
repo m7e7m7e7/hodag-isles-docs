@@ -1,0 +1,17 @@
+$schema: https://api.gitbook.com/gitbook-docs.yaml
+site:
+  title: Hodag Isles
+  structure:
+    - type: section
+      key: hodag-isles
+      title: Hodag Isles
+      path: hodag-isles
+      children:
+        - type: space
+          key: docs
+          title: Hodag Isles
+          path: docs
+          default: true
+          content:
+            directory: ./
+            language: en
