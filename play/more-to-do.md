@@ -20,9 +20,19 @@ Join or found a **crew** (a guild) at the Boss's Lodge and fly your banner.
 
 Carry them, stack them on your head, throw them and go **Stumpling bowling** in the Stump Arena.
 
+## 🌉 Build the bridge (the next area)
+
+The **Community Bridge** across the river is broken. When the camp has brought **500 logs** to it, together, the bridge is
+rebuilt and the **east bank** opens for everyone:
+
+* **John Henry's Tunnel:** dig coal, the hottest fuel, and ride the minecart.
+* **The Big Woods Sawmill:** saw logs into planks and sell them for coins.
+
+Every log anyone delivers counts toward the goal.
+
 ## 🏊 Swim and explore
 
-Swim the river and the Big Lake, cross the Community Bridge to the east bank and check the **map** for the places you've been.
+Swim the river and the Big Lake, cross the Community Bridge to the east bank once it's rebuilt, and check the **map** for the places you've been.
 
 ## 💃 Hang out
 

@@ -6,7 +6,7 @@ description: The only official links.
 
 | | |
 |---|---|
-| 🔥 **Play** | [PLAY LINK] |
+| 🔥 **Play** | [hodagisles.xyz](https://hodagisles.xyz) |
 | 🐦 **X** | [@hodagisles](https://x.com/hodagisles) |
 | 🪙 **$HODAG on flap** | [Buy on flap](https://flap.sh/bnb/0x190e79baf5b53616862df67733ba80e9d4857777) |
 | 📜 **$HODAG contract (CA)** | `0x190e79baf5b53616862df67733ba80e9d4857777` |
