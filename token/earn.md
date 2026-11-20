@@ -7,7 +7,7 @@ description: Every reward is counted to your account.
 You can earn **$HODAG** rewards now, before the token launches. Johnny Inkslinger keeps the ledger: the game counts every reward to your account, and you can see your total in the **Rewards** panel.
 
 {% hint style="info" %}
-You need to be signed in with **X** or a **BNB wallet** to earn. Guests can't earn rewards.
+You need to be signed in with **X** or a **Solana wallet** to earn. Guests can't earn rewards.
 {% endhint %}
 
 ## Ways to earn
@@ -28,12 +28,12 @@ Post about the game on X, then paste your post's link in the game. It's checked 
 
 ### Whitelist
 
-Do the quests on the whitelist board, then apply with your BNB wallet.
+Do the quests on the whitelist board, then apply with your Solana wallet address.
 
 ## Getting paid
 
-Rewards are paid in **$HODAG** on BNB Chain, to the wallet on your account, after launch.
+Rewards are paid in **$HODAG** on Solana, to the wallet on your account, after launch.
 
 {% hint style="warning" %}
-Connect your BNB wallet before payout so your rewards have somewhere to go.
+Connect your Solana wallet before payout so your rewards have somewhere to go.
 {% endhint %}

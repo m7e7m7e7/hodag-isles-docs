@@ -1,10 +1,16 @@
 ---
-description: Your progress follows your BNB wallet.
+description: Your progress follows your Solana wallet.
 ---
 
 # Sign In with Your Wallet
 
-You can sign in with a **BNB Chain wallet** or with **X**.
+You can sign in with a **Solana wallet** or with **X**.
+
+## Which wallets work
+
+* **Phantom**, **Solflare**, **Backpack**, or any wallet that supports Solana's Wallet Standard.
+* **On a computer:** use the wallet's browser extension, then press connect in the game.
+* **On a phone:** open [hodagisles.xyz](https://hodagisles.xyz) inside the wallet app's own browser (Phantom, Solflare or Backpack) and connect there.
 
 ## What signing in does
 
@@ -14,7 +20,7 @@ You can sign in with a **BNB Chain wallet** or with **X**.
 
 ## Is it safe?
 
-Signing in with your wallet asks for **one free signature**. It proves the wallet is yours. **It sends nothing and costs no gas.**
+Signing in with your wallet asks you to **sign one free message**. It proves the wallet is yours. **It sends nothing, costs nothing and gives no permission.**
 
 {% hint style="danger" %}
 Hodag Isles will **never** ask for your seed phrase or private key, and never asks you to send funds to "verify" your wallet. See [Stay Safe](../community/safety.md).

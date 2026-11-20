@@ -19,7 +19,7 @@ While the Big Stove roars, the Hodag keeps its distance. When it cools, the beas
 ## How to feed it
 
 1. Pick up a log with **E**.
-2. Carry it to the Big Stove (the iron dome with the golden BNB mark).
+2. Carry it to the Big Stove (the iron dome with the glowing three-bar Solana mark).
 3. Hold the mouse button to aim, then let go to throw it into the fire door.
 
 {% hint style="info" %}

@@ -11,7 +11,7 @@ Hodag Isles runs in your browser on desktop and phone. There's nothing to downlo
 ## 2. Play as a guest, or sign in
 
 * **Guest:** jump straight in. Good for a first look.
-* **Signed in** with **X** or a **BNB wallet**: your progress, hero and rewards follow your account, and you can earn **$HODAG** rewards. See [Sign In with Your Wallet](../bnb/wallet.md).
+* **Signed in** with **X** or a **Solana wallet**: your progress, hero and rewards follow your account, and you can earn **$HODAG** rewards. See [Sign In with Your Wallet](../solana/wallet.md).
 
 ## 3. Read the guide
 

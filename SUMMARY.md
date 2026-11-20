@@ -18,11 +18,11 @@
 * [Fight the Hodag](play/hodag-fight.md)
 * [More to Do](play/more-to-do.md)
 
-## BNB Chain
+## Solana
 
-* [Sign In with Your Wallet](bnb/wallet.md)
-* [TimberPass](bnb/timberpass.md)
-* [Feed the Squonk](bnb/squonk.md)
+* [Sign In with Your Wallet](solana/wallet.md)
+* [TimberPass](solana/timberpass.md)
+* [Feed the Squonk](solana/squonk.md)
 
 ## $HODAG
 

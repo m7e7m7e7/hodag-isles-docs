@@ -30,11 +30,11 @@ No boats. No way home. Paul went for help, and Paul has not come back.
 
 ## The one thing it fears
 
-Deep in the woods the crew found Paul's camp stove, the **Big Stove**: as tall as a barn, riveted iron, with a chimney you could lose a moose in. Above the fire door shines a golden **BNB** mark.
+Deep in the woods the crew found Paul's camp stove, the **Big Stove**: as tall as a barn, riveted iron, with a chimney you could lose a moose in. Above the fire door shines the three-bar **Solana** mark.
 
-When the stove roars, the mark blazes gold, and the Hodag can't stand the light. It rears back and runs into the trees.
+When the stove roars, the mark blazes purple to green, and the Hodag can't stand the light. It rears back and runs into the trees.
 
-![](../.gitbook/assets/09_bnb_stove_flare.jpg)
+![](../.gitbook/assets/09_sol_stove_flare.jpg)
 
 So the crew has one job: **keep the stove roaring.**
 

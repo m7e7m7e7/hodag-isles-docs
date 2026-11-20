@@ -26,4 +26,4 @@ The giant fish of the Big Lake. It swims backwards to keep the water out of its 
 
 ## The Squonk
 
-A weeping little critter who begs for coins by the stove. Feed him and he tells you secrets. See [Feed the Squonk](../bnb/squonk.md).
+A weeping little critter who begs for coins by the stove. Feed him and he tells you secrets. See [Feed the Squonk](../solana/squonk.md).

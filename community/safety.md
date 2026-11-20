@@ -12,4 +12,4 @@ description: Don't let the Hodag in a trench coat get you.
 * **We never DM first** asking you to "verify", "sync" or "claim" by sending tokens.
 * **Only use the official links** on the [Links](links.md) page.
 * **Watch out for copycat tokens** with the same name.
-* **All payments in the game** (TimberPass, the Squonk) are normal BNB transfers you approve yourself in your wallet. Check the amount before you approve.
+* **All payments in the game** (TimberPass, the Squonk) are normal SOL transfers on Solana that you approve yourself in your wallet. Check the amount before you approve.

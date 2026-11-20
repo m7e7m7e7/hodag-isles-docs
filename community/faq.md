@@ -16,7 +16,7 @@ Yes. The game is free to play in your browser. The TimberPass and feeding the Sq
 
 <summary>Do I need a wallet to play?</summary>
 
-No. You can play as a guest. Sign in with X or a BNB wallet to save your progress and earn $HODAG rewards.
+No. You can play as a guest. Sign in with X or a Solana wallet to save your progress and earn $HODAG rewards.
 
 </details>
 
@@ -32,7 +32,7 @@ Yes. Hodag Isles runs in mobile browsers with on-screen controls.
 
 <summary>Which chain is it on?</summary>
 
-BNB Smart Chain. The TimberPass and the Squonk take BNB, and $HODAG launches on flap on BNB Chain.
+Solana. The TimberPass and the Squonk take SOL, and $HODAG launches on Solana.
 
 </details>
 
@@ -40,7 +40,7 @@ BNB Smart Chain. The TimberPass and the Squonk take BNB, and $HODAG launches on 
 
 <summary>When do I get my $HODAG rewards?</summary>
 
-After the token launches. They're paid on BNB Chain to the wallet on your account. Check your total in the Rewards panel.
+After the token launches. They're paid on Solana to the wallet on your account. Check your total in the Rewards panel.
 
 </details>
 

@@ -21,7 +21,8 @@ Making a video, a thread or fan art? Use these.
 | Name | Hex | Use |
 |---|---|---|
 | Stove gold | `#FFCF4A` | Titles, highlights |
-| BNB yellow | `#F0B90B` | Anything BNB Chain |
+| Solana purple | `#9945FF` | Anything Solana |
+| Solana green | `#14F195` | Anything Solana (with purple) |
 | Ember ink | `#1C0E06` | Outlines, dark panels |
 | Campfire cream | `#FFF3DC` | Body text on dark |
 | Hodag green | `#3F8A2E` | The beast |
@@ -39,8 +40,8 @@ All free from Google Fonts:
 * Keep the stove roaring. The Hodag is watching.
 * They cut the wrong tree.
 * It's awake.
-* Play free in your browser · Built on BNB Chain
+* Play free in your browser · Built on Solana
 
 {% hint style="info" %}
-Use the BNB Chain mark only to say Hodag Isles is built on BNB Chain. Don't suggest that Binance or BNB Chain endorses the project.
+Use the Solana mark only to say Hodag Isles is built on Solana. Don't suggest that Solana endorses the project.
 {% endhint %}

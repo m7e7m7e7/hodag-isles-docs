@@ -1,18 +1,18 @@
 ---
-description: A free multiplayer browser game on BNB Chain, built on American tall tales.
+description: A free multiplayer browser game on Solana, built on American tall tales.
 cover: .gitbook/assets/banner.jpg
 coverY: 0
 ---
 
 # Welcome to Hodag Isles
 
-![](.gitbook/assets/09_bnb_stove_flare.jpg)
+![](.gitbook/assets/09_sol_stove_flare.jpg)
 
 **Paul Bunyan's crew cut the wrong tree, and the Great Hodag woke up.**
 
-The beast burned the boats and ringed the isles with fire. The only thing it fears is the gold glow of the camp's giant stove, so the crew keeps feeding it, day and night.
+The beast burned the boats and ringed the isles with fire. The only thing it fears is the purple-to-green glow of the camp's giant stove, so the crew keeps feeding it, day and night.
 
-**Hodag Isles** is a free multiplayer game you play in your browser, on **BNB Chain**. No download, no install: you wash ashore, grab a log and join the crew.
+**Hodag Isles** is a free multiplayer game you play in your browser, on **Solana**. No download, no install: you wash ashore, grab a log and join the crew.
 
 > **Keep the stove roaring. The Hodag is watching.**
 
@@ -24,11 +24,11 @@ The beast burned the boats and ringed the isles with fire. The only thing it fea
 * 🔥 **Train, then fight the Great Hodag** with your crew.
 * 🎣 **Fish, swim, explore** the isles and meet the legends of American folklore.
 
-## Built on BNB Chain
+## Built on Solana
 
-* Sign in with your **BNB wallet** (one free signature, nothing is sent).
-* The **TimberPass** season pass is paid in **BNB**.
-* **$HODAG**, the camp's coin, launches on **flap**.
+* Sign in with your **Solana wallet** (one free signature, nothing is sent).
+* The **TimberPass** season pass is paid in **SOL**.
+* **$HODAG**, the camp's coin, launches on **Solana**.
 
 ## Start here
 
